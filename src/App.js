@@ -17,7 +17,6 @@ function App() {
           <Link to="/">BarGraph</Link>
           <Link to="/pie-chart">PieChart</Link>
           <Link to="/horizontal-graph">Horizontal</Link>
-
           <Link to="/zoompan">ZoomPan</Link>
           <Link to="/crosshair-graph">CrossHair</Link>
           <Link to="/multiseries-chart"> MultiSeries Chart</Link>
